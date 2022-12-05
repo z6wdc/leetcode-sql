@@ -5,4 +5,5 @@
 ## Solution
 
 `CASE` 式
+
 `LIKE` 句
