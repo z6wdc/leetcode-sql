@@ -1,6 +1,6 @@
 # Problem 1873. Calculate Special Bonus
 
-- [link](https://leetcode.com/problems/calculate-special-bonus/)
+[link](https://leetcode.com/problems/calculate-special-bonus/)
 
 ## Solution
 

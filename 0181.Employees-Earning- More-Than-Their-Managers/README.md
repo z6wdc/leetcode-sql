@@ -1,6 +1,6 @@
 # Problem 181. Employees Earning More Than Their Managers
 
-- [link](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+[link](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 
 ## Solution
 
