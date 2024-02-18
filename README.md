@@ -1,3 +1,2 @@
-# LeetCode Note
+# LeetCode SQL
 
-[dashboard](https://leetcode.com/cho195/)
